@@ -1,4 +1,3 @@
-
 function isEvenSum(a: number, b: number, c: number): boolean {
     let sum = a + b + c;
     if (sum % 2 === 0) {
